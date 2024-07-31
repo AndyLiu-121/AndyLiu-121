@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndyLiu-121
 - 👀 I’m interested in exploring new things and learn new skills
-- 🌱 I’m currently learning digital image processing
+- 🌱 I’m currently learning computational structural biology
 - 💞️ I’m looking to collaborate on some of the projects on DIP
 - 📫 How to reach me: 1247114518@qq.com
 
